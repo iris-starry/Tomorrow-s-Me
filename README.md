@@ -1,6 +1,8 @@
 # Tomorrow's Me
 2022 JAVA 프로젝트 '내일의 나' 교훈일기
 
+<br/>
+
 ## 🖥️ 프로젝트 소개
 내가 느낀 명언, 다짐을 더 나은 내일을 위해 간단명료하게 내가 나의 인생 조언을 기록할 수 있는 교훈일기
 
@@ -17,8 +19,9 @@
 
 ## 📌 주요 기능
 #### 홈화면 
-![image](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/44e6dcf2-fc7e-4d13-96e1-9f9445e1b6c9)
-![image](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/69662c67-8dd2-4c8f-be6a-99d7d4acda08)
+![001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/37573aff-a79a-4ce5-8b8f-cc91e16bf00c)
+![002](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/a9b1eea7-4209-43a3-bf54-52eed6daecd0)
+
 4가지의 기능이 버튼으로 이루어져 있으며 중앙에는 쓴 일기가 가장 먼저 쓴 일기가 시간순으로 나열되어있다.
 - 일기 조회
 
