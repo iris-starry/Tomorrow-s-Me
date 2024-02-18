@@ -24,7 +24,8 @@
 <details>
   <summary>Image</summary>
   <!-- 내용 -->
-  ![제목을-입력해주세요_-001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/54f58f14-9759-4f23-ad47-992cc8cb1e3f)
+  ![002](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/d723048a-0fdf-4545-b738-f6e3f9bcf7a7)
+![001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/a7e2b968-e5fb-4208-9457-7870ac80f5ee)
 </details>
 
 #### 작성화면 
