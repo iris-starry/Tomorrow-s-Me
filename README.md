@@ -22,16 +22,11 @@
 <details>
   <summary>Image</summary>
   <!-- 내용 -->
-  https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/0b79e80d-4260-420d-bf50-e6f5e30e3656
-(https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/114760c8-d921-48a7-bbac-3ec2be701cdd)
-
+  ![001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/6f22de68-9bd2-47e6-81ed-ec68fcc0e087)
+  ![002](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/838ab622-c636-413a-bf07-878556b2ae9b)
 </details>
 4가지의 기능이 버튼으로 이루어져 있으며 중앙에는 쓴 일기가 가장 먼저 쓴 일기가 시간순으로 나열되어있다.
 - 일기 조회
-
-![001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/fdd760a4-7590-4532-950c-65496c665167)
-
-
 
 #### 작성화면 
 ![image](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/27157218-513e-4ae1-a1d8-fed787f8f46b)
