@@ -23,6 +23,7 @@
   <summary>Image</summary>
   <!-- 내용 -->
   ![001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/6f22de68-9bd2-47e6-81ed-ec68fcc0e087)
+  <br/>
   ![002](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/838ab622-c636-413a-bf07-878556b2ae9b)
 </details>
 4가지의 기능이 버튼으로 이루어져 있으며 중앙에는 쓴 일기가 가장 먼저 쓴 일기가 시간순으로 나열되어있다.
