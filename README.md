@@ -16,7 +16,7 @@
 - **Database** : MySQL 8.0.33
 
 ## 📌 주요 기능
-#### -홈화면 
+#### **홈화면** 
 <details>
   <summary>Image</summary>
   
