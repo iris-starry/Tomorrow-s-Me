@@ -26,6 +26,7 @@
   <br/>
   ![002](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/838ab622-c636-413a-bf07-878556b2ae9b)
 </details>
+![001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/8b2fe18c-3a6e-4e79-9d58-9ad454b839dd)
 4가지의 기능이 버튼으로 이루어져 있으며 중앙에는 쓴 일기가 가장 먼저 쓴 일기가 시간순으로 나열되어있다.
 - 일기 조회
 
