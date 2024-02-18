@@ -19,11 +19,13 @@
 
 ## 📌 주요 기능
 #### 홈화면 
-![001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/37573aff-a79a-4ce5-8b8f-cc91e16bf00c)
-![002](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/a9b1eea7-4209-43a3-bf54-52eed6daecd0)
-
 4가지의 기능이 버튼으로 이루어져 있으며 중앙에는 쓴 일기가 가장 먼저 쓴 일기가 시간순으로 나열되어있다.
 - 일기 조회
+<details>
+  <summary>Image</summary>
+  <!-- 내용 -->
+  ![제목을-입력해주세요_-001](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/54f58f14-9759-4f23-ad47-992cc8cb1e3f)
+</details>
 
 #### 작성화면 
 ![image](https://github.com/iris-starry/Tomorrow-s-Me/assets/106311884/27157218-513e-4ae1-a1d8-fed787f8f46b)
